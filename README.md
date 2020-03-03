@@ -1,2 +1,2 @@
 # PAU
-Informatic Engineering's student at UPC
+Software engineer's Student at UPC
